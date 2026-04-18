@@ -1,1 +1,1 @@
-print("Hello world")
+"""Day 2: 30 Days of python"""
